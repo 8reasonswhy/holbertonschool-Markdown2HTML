@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 Ce module prend en argument un fichier Markdown et génère un fichier HTML.
 Il vérifie que le nombre d'arguments est correct et que le fichier Markdown existe.
